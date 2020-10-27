@@ -38,6 +38,8 @@
                     <a class="icon-twitch" href="www.google.com"></a>
                     <a class="icon-facebook-squared" href="www.google.com"></a>
                     <a class="icon-facebook-squared" href="www.vinos.com"></a>
+                    <a class="icon-facebook-squared" href="www.pepe.com"></a>
+
 
                 </div>
                 </div>
