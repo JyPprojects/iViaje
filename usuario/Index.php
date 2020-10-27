@@ -37,6 +37,8 @@
                     <a class="icon-instagram" href="www.google.com"></a>
                     <a class="icon-twitch" href="www.google.com"></a>
                     <a class="icon-facebook-squared" href="www.google.com"></a>
+                    <a class="icon-facebook-squared" href="www.vinos.com"></a>
+
                 </div>
                 </div>
         </footer>
